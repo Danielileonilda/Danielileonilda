@@ -3,6 +3,8 @@ Meu nome é Danieli
 
 Sou estudante do Colégio Estadual Leonilda Papen
 
+Acompanho o [Alura](https://www.alura.com)
+
 ### Você pode entrar em contato comigo 📫
 
 waltrich.danieli@escola.pr.gov.br
